@@ -29,7 +29,7 @@ void loop() {
 
 }
 
-Void menampilkanPESAN(){
+void menampilkanPESAN(){
       display.setTextSize(1);                     // menentukan ukuran font (Font size)
       display.setTextColor(WHITE);                // menentukan warna tulisan (Font color)
       display.setCursor(0, 0);                    // mengatur posisi cursor text (x,y) 
